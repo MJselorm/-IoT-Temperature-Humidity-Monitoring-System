@@ -13,7 +13,7 @@ This project demonstrates how to:
 * Send sensor data to a web server using HTTP POST
 * Build a basic end‑to‑end IoT monitoring system
 
-It is designed for robotics clubs, beginners in IoT, and embedded systems learners.
+It is designed for Aaenics robotics clubs, beginners in IoT, and embedded systems learners.
 
 ---
 
@@ -48,8 +48,6 @@ It is designed for robotics clubs, beginners in IoT, and embedded systems learne
 | VCC       | 3.3V               |
 | GND       | GND                |
 | DATA      | GPIO (e.g., GPIO4) |
-
-> ⚠️ Note: Some DHT11 modules require a pull‑up resistor on the DATA line.
 
 ---
 
@@ -157,7 +155,7 @@ This project is open-source and available for educational and personal use.
 
 ## 👨‍💻 Authors
 
-**Robotics Club Project Team**
+**Aaenics Robotics Club Project Team**
 
 ---
 
