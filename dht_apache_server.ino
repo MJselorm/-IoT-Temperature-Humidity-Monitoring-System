@@ -5,8 +5,8 @@
 #define DHTPIN 33
 #define DHTTYPE DHT11
 
-const char* ssid = "ALBY 9044";
-const char* password = "12345678";
+const char* ssid = "";//enter your network name
+const char* password = "";//enter your netwokr password
 
 const char* serverName = "https://192.168.137.55/iot/data.php";
 
